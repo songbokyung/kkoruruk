@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/kkoruruk/static/css/main.02f670b6.css",
-    "main.js": "/kkoruruk/static/js/main.7d315f19.js",
+    "main.js": "/kkoruruk/static/js/main.a546c263.js",
     "static/js/787.13f445b3.chunk.js": "/kkoruruk/static/js/787.13f445b3.chunk.js",
     "static/media/banner2.png": "/kkoruruk/static/media/banner2.ed224144dd9243ea98a0.png",
     "static/media/banner1.png": "/kkoruruk/static/media/banner1.58eea100077421b4ea6f.png",
@@ -9,11 +9,11 @@
     "static/media/banner4.png": "/kkoruruk/static/media/banner4.0ea86db950108dffe38c.png",
     "index.html": "/kkoruruk/index.html",
     "main.02f670b6.css.map": "/kkoruruk/static/css/main.02f670b6.css.map",
-    "main.7d315f19.js.map": "/kkoruruk/static/js/main.7d315f19.js.map",
+    "main.a546c263.js.map": "/kkoruruk/static/js/main.a546c263.js.map",
     "787.13f445b3.chunk.js.map": "/kkoruruk/static/js/787.13f445b3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.02f670b6.css",
-    "static/js/main.7d315f19.js"
+    "static/js/main.a546c263.js"
   ]
 }
